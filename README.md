@@ -1,6 +1,6 @@
 # glaucoma-prs-phewas
 #### Polygenic Risk Score-based Phenome-wide Association for Glaucoma and Its Impact on Disease Susceptibility in Two Large Biobanks
-Jae-Seung Yun; Sang-Hyuk Jung; Su-Nam Lee; Seung Min Jung; Penn Medicine Biobank Penn Medicine Biobank; Hong-Hee Won; Dokyoon Kim; Jin A Choi
+Jae-Seung Yun; Sang-Hyuk Jung; Su-Nam Lee; Seung Min Jung; Penn Medicine Biobank; Hong-Hee Won; Dokyoon Kim; Jin A Choi
 
 ## Description
 ### 1. PRS Generation for POAG
