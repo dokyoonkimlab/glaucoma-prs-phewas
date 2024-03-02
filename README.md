@@ -13,21 +13,17 @@ The PRS was constructed using PRS-CS (version 1.0.0) [3], which is a Bayesian po
 > [Glaucoma_PRSCS_auto.zip, TBD](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
 ---
 
-### 2. PheWAS Scripts
-
-## Description
-### Phenome-wide Association Study
-The “PheWAS” R package (version 0.99.5.5) was used to perform PheWAS analyses [5]. In these analyses, POAG PRS was set as the independent variable, and disease phenotypes as dependent variables, with age, sex, genotyping array, and first 10 genetic PCs of ancestry as covariates. Disease diagnosis category phenotypes were obtained by mapping the International Classification of Diseases, Ninth or Tenth Revision (ICD-9 and -10) diagnosis codes of the UK Biobank to 1,618 hierarchical phenotypes (PheCodes) categorized into 17 disease categories [6-7]. We removed phenotypic codes with less than 100 cases and those concerning symptoms, injuries, and poisoning, resulting in 776 phenotypes in 15 disease categories that were included in our analysis.
+### 2. Phenome-wide Association Study Scripts
+The “PheWAS” R package (version 0.99.5.5) was used to perform PheWAS analyses [5]. In these analyses, POAG PRS was set as the independent variable, and disease phenotypes as dependent variables, with age, sex, genotyping array, and first 10 genetic PCs of ancestry as covariates. Disease diagnosis category phenotypes were obtained by mapping the International Classification of Diseases, Ninth or Tenth Revision (ICD-9 and -10) diagnosis codes of the UK Biobank to 1,618 hierarchical phenotypes (PheCodes) categorized into 17 disease categories [6]. We removed phenotypic codes with less than 100 cases and those concerning symptoms, injuries, and poisoning, resulting in 776 phenotypes in 15 disease categories that were included in our analysis.
 
 ---
 > [TBD](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
 ---
 
-### Reference
-1. n/a
-2. df
-3. df
-4. df
-5. df
-6. df
-7. df 
+### References
+1. Gharahkhani P, Jorgenson E, Hysi P, et al. Genome-wide meta-analysis identifies 127 open-angle glaucoma loci with consistent effect across ancestries. Nat Commun. 2021;12:1258.
+2. Buniello A, MacArthur JAL, Cerezo M, et al. The NHGRI-EBI GWAS Catalog of published genome-wide association studies, targeted arrays and summary statistics 2019. Nucleic Acids Res. 2019;47:D1005-d1012.
+3. Ge T, Chen CY, Ni Y, et al. Polygenic prediction via Bayesian regression and continuous shrinkage priors. Nat Commun. 2019;10:1776.
+4. Chang CC, Chow CC, Tellier LC, et al. Second-generation PLINK: rising to the challenge of larger and richer datasets. Gigascience. 2015;4:7.
+5. Denny JC, Ritchie MD, Basford MA, et al. PheWAS: demonstrating the feasibility of a phenome-wide scan to discover gene-disease associations. Bioinformatics. 2010;26:1205-1210.
+6. Denny JC, Bastarache L, Ritchie MD, et al. Systematic comparison of phenome-wide association study of electronic medical record data and genome-wide association study data. Nat Biotechnol. 2013;31:1102-1110.
