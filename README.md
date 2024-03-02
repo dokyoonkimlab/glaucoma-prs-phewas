@@ -3,7 +3,7 @@
 Jae-Seung Yun; Sang-Hyuk Jung; Su-Nam Lee; Seung Min Jung; Penn Medicine Biobank Penn Medicine Biobank; Hong-Hee Won; Dokyoon Kim; Jin A Choi
 
 ### Glaucoma PRS-CS model - xxx.xxx variants
-> [Glaucoma_PRSCS_auto.zip](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
+> [Glaucoma_PRSCS_auto.zip, TBD](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
 
 ---
 
@@ -16,7 +16,7 @@ The PRS was constructed using PRS-CS (version 1.0.0) [3], which is a Bayesian po
 ---
 
 ### PheWAS Script
-> [Glaucoma_PRSCS_auto.zip](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
+> [TBD](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
 
 ---
 
