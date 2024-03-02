@@ -2,6 +2,7 @@
 #### Polygenic Risk Score-based Phenome-wide Association for Glaucoma and Its Impact on Disease Susceptibility in Two Large Biobanks
 Jae-Seung Yun; Sang-Hyuk Jung; Su-Nam Lee; Seung Min Jung; Penn Medicine Biobank; Hong-Hee Won; Dokyoon Kim; Jin A Choi
 
+
 ## Description
 ### 1. PRS Generation for POAG
 To quantify genetic risk for glaucoma, we generated a PRS using summary statistics from the GWAS conducted by the International Glaucoma Genetics Consortium (IGGC) [1], which consisted of 12,713,176 variants. The GWAS was conducted with a fixed-effects meta-analysis of 15,229 POAG cases and 177,473 controls of European descent excluding UK Biobank samples and the summary statistics are available via GWAS Catalog [2],  under the study accession identifier GCST90011767.
