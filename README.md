@@ -10,7 +10,7 @@ The PRS was constructed using PRS-CS (version 1.0.0) [3], which is a Bayesian po
 
 ---
 ### Glaucoma PRS-CS model - xxx.xxx variants
-> [Glaucoma_PRSCS_auto.zip, TBD](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
+> [TBD](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
 ---
 
 ### 2. Phenome-wide Association Study Scripts
