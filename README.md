@@ -9,7 +9,7 @@ To quantify genetic risk for glaucoma, we generated a PRS using summary statisti
 The PRS was constructed using PRS-CS (version 1.0.0) [3], which is a Bayesian polygenic method that infers the posterior mean effect size of each variant based on GWAS summary statistics and the linkage disequilibrium reference panel. The individual PRSs were computed from beta coefficients as the weighted sum of the risk alleles by applying PLINK version 1.90 [4].
 
 ### Glaucoma PRS-CS model - 1,116,933 variants
-> [TBD](https://github.com/dokyoonkimlab/glaucoma-prs-phewas/blob/main/prs-model/---_PRSCS_autozip)
+> [PRS-CS_auto](https://github.com/dokyoonkimlab/glaucoma-prs-phewas/blob/main/IGGC_glaucoma_PRS-CS_auto.zip)
 ---
 
 ## 2. Phenome-wide Association Study Scripts
