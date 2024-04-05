@@ -15,7 +15,7 @@ The PRS was constructed using PRS-CS (version 1.0.0) [3], which is a Bayesian po
 ## 2. Phenome-wide Association Study Scripts
 The “PheWAS” R package (version 0.99.5.5) was used to perform PheWAS analyses [5]. In these analyses, POAG PRS was set as the independent variable, and disease phenotypes as dependent variables, with age, sex, genotyping array, and first 10 genetic PCs of ancestry as covariates. Disease diagnosis category phenotypes were obtained by mapping the International Classification of Diseases, Ninth or Tenth Revision (ICD-9 and -10) diagnosis codes of the UK Biobank to 1,618 hierarchical phenotypes (PheCodes) categorized into 17 disease categories [6]. We removed phenotypic codes with less than 100 cases and those concerning symptoms, injuries, and poisoning, resulting in 776 phenotypes in 15 disease categories that were included in our analysis.
 
-> [link](https://github.com/dokyoonkimlab/glaucoma-prs-phewas/tree/main/phewas-script)
+> [pipeline](https://github.com/dokyoonkimlab/glaucoma-prs-phewas/tree/main/phewas-script)
 ---
 
 ### References
